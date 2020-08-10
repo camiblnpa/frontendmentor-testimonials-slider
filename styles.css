@@ -19,29 +19,47 @@ html {
 
 body {
   display: block;
-  background-image: url('./images/pattern-curve.svg');
-  background-repeat: no-repeat;
-  background-position: bottom left;
-}
-
-.container {
-  display: block;
   background-image: url('./images/pattern-bg.svg');
   background-repeat: no-repeat;
+  background-position: right center;
+  background-position-x: 88%;
+  background-position-y: 25%;
 }
 
 .quote-text {
-  display: inline;
   font-family: var(--font);
   font-weight: var(--small-weight);
   font-size: var(--size);
   color: var(--dark-blue);
+  letter-spacing: 1px;
+  position: absolute;
+  top: 260px;
+  right: 600px;
+  bottom: 0px;
+  left: 140px;
+}
+
+.quotes{
+    position: absolute;
+    top: 192px;
+    left: 240px; 
+}
+
+.profile-image {
+  margin: 90px 10px 30px 720px;
+  border-radius: 5px;
 }
 
 .name {
   font-family: var(--font);
   font-weight: var(--big-weight);
   font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 480px;
+  right: 600px;
+  bottom: 0px;
+  left: 140px;
 }
 
 .occupation {
@@ -49,11 +67,17 @@ body {
   font-weight: var(--small-weight);
   font-size: 18px;
   color: var(--grayish-blue);
+  letter-spacing: 1px;
+  margin-left: 5px;
+}
+
+.pattern-curve {
+    position: absolute;
+    top: 630px;
 }
 
 .attribution {
   position: fixed;
-  left: 0;
   bottom: 10px;
   width: 100%;
   color: var(--dark-blue);
