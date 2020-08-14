@@ -1,12 +1,10 @@
 # Frontend Mentor - Coding Bootcamp Testimonials Slider
 
-![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)
-
-*This are the originals designs for desktop
+*This are the originals designs for desktop*
 ![Desktop-design-1](./design/desktop-design-slide-1.jpg)
 ![Desktop-design-2](./design/desktop-design-slide-2.jpg)
 
-*This are the originals designs for mobile
+*This are the originals designs for mobile*
 ![Mobile-design-1](./design/mobile-design-slide-1.jpg)
 ![Mobile-design-2](./design/mobile-design-slide-2.jpg)
 
