@@ -1,11 +1,16 @@
 # Frontend Mentor - Coding Bootcamp Testimonials Slider
 
 *This are the originals designs for desktop*
+
 ![Desktop-design-1](./design/desktop-design-slide-1.jpg)
+
 ![Desktop-design-2](./design/desktop-design-slide-2.jpg)
 
+
 *This are the originals designs for mobile*
+
 ![Mobile-design-1](./design/mobile-design-slide-1.jpg)
+
 ![Mobile-design-2](./design/mobile-design-slide-2.jpg)
 
 
@@ -25,12 +30,17 @@ If you want to see my project click [This link](https://frontendmentor-testimoni
 ## My results
 
 *This are my designs for desktop*
+
 ![Desktop design 1](./design/my-desktop-design-slide-1.png)
+
 ![Desktop design 2](./design/my-desktop-design-slide-2.png)
 
 
+
 *This are my designs for mobile*
+
 ![Mobile design 1](./design/my-mobile-design-slide-1.png)
+
 ![Mobile design 2](./design/my-mobile-design-slide-2.png)
 
 
